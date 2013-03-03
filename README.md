@@ -28,4 +28,4 @@ Run on heroku as
 > heroku open
 ```
 
-
+Previous iteration of this app is https://github.com/ogt/helloworld-js-heroku-depends
