@@ -29,3 +29,5 @@ Run on heroku as
 ```
 
 Previous iteration of this app is https://github.com/ogt/helloworld-js-heroku-depends
+
+Next iteration of this app is https://github.com/ogt/helloworld-node-db
