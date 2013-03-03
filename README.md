@@ -6,9 +6,9 @@ Simplest possible hello world heroku node.js app that uses middleware and uses c
 
 Run locally as
 ```
-> foreman start -e .env_dev -f Procfile_dev
-> cat .env_dev 
+> cat >.env_dev 
 PORT=5000
 HOST=http://localhost:5000
+^D
+> foreman start -e .env_dev -f Procfile_dev
 ```
-
